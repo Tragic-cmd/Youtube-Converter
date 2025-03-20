@@ -5,11 +5,11 @@ A web application that allows users to convert YouTube videos to either MP3 (aud
 ## Table of Contents
 
 1. [Installation](https://github.com/Tragic-cmd/Youtube-Converter#installation)
-2. [Usage]
-3. [Features]
-4. [Contributing]
-5. [License]
-6. [Contact]
+2. [Usage](https://github.com/Tragic-cmd/Youtube-Converter#usage)
+3. [Features](https://github.com/Tragic-cmd/Youtube-Converter#features)
+4. [Contributing](https://github.com/Tragic-cmd/Youtube-Converter#contributing)
+5. [License](https://github.com/Tragic-cmd/Youtube-Converter#license)
+6. [Contact](https://github.com/Tragic-cmd/Youtube-Converter#contact)
 
 ## Installation
 
